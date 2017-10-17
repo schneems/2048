@@ -1,0 +1,1 @@
+# 2048 AI - Using no hard-coded knowledge about the game.
